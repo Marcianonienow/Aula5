@@ -23,7 +23,7 @@ $A=l^{2}$
 sendo
 
 
-A: área 
+$A$: área 
 
 
 L: lado
