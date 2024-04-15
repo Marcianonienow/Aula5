@@ -17,7 +17,7 @@ h: altura
 Quadrado 
 
 
-$A=l^{2}$
+$A=L^{2}$
 
 
 sendo
