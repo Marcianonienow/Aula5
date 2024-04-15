@@ -5,6 +5,8 @@ Triângulo
 $A=\frac{b.h}{2}$
 
 sendo
+
+
 A: área 
 
 b: base
@@ -21,6 +23,9 @@ $A=l^{2}$
 sendo
 
 
-A: 
+A: área 
+
+
+L: lado
 
 
