@@ -2,4 +2,4 @@
 
 triângulo $A=\frac{b.h}{2}$
 
-$A=L^{2}$
+$A=l^{2}$
