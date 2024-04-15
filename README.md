@@ -7,7 +7,7 @@ $A=\frac{b.h}{2}$
 sendo
 
 
-A: área 
+$A$: área 
 
 b: base
 
