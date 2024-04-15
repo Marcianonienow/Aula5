@@ -44,13 +44,13 @@ d: diagonal menor
 
 
 
-retângulo 
+Retângulo 
 
 A=b.h
 
 sendo
 
-A=b.h
+$A=\frac{b.h}{2}$
 
 $A$: área 
 
