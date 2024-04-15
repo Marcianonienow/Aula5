@@ -85,7 +85,7 @@ sendo
 
 $A$= área 
 
-$\pi$: constantepi(3,14)
+$\pi$: constantePi(3,14)
 
 r= raio
 
