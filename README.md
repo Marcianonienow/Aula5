@@ -62,7 +62,7 @@ h: altura
 Trapézio 
 
 
-$A=\frac{(B+b).h{2}$
+$A=\frac{(B+b).h}{2}$
 
 
 sendo
